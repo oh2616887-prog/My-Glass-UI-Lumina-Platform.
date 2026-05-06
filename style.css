@@ -3,6 +3,7 @@ body{
   background-color: black;
   background-size:cover;
   height:100vh;
+  max-width:350px;
   display:flex;
   justify-content:center;
   align-items: center;
